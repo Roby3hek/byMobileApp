@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Tym/app/src/main/res/drawable/ic__2222filter.xml" value="0.2898148148148148" />
+        <entry key="..\:/Tym/app/src/main/res/drawable/ic_instagram.xml" value="0.262037037037037" />
+        <entry key="..\:/Tym/app/src/main/res/drawable/ic_instagram_.xml" value="0.19444444444444445" />
+        <entry key="..\:/Tym/app/src/main/res/drawable/ic_logo.xml" value="0.20208333333333334" />
+        <entry key="..\:/Tym/app/src/main/res/layout/activity_auto.xml" value="0.22" />
+        <entry key="..\:/Tym/app/src/main/res/layout/activity_catalog.xml" value="0.25" />
+        <entry key="..\:/Tym/app/src/main/res/layout/activity_electric.xml" value="0.2667572463768116" />
+        <entry key="..\:/Tym/app/src/main/res/layout/activity_him_chistka.xml" value="0.2667572463768116" />
+        <entry key="..\:/Tym/app/src/main/res/layout/activity_info.xml" value="0.18" />
+        <entry key="..\:/Tym/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Tym/app/src/main/res/layout/activity_pay.xml" value="0.33" />
+        <entry key="..\:/Tym/app/src/main/res/layout/activity_prjob.xml" value="0.2667572463768116" />
+        <entry key="..\:/Tym/app/src/main/res/layout/activity_remont.xml" value="0.2667572463768116" />
+        <entry key="..\:/Tym/app/src/main/res/layout/activity_santehnik.xml" value="0.2667572463768116" />
+        <entry key="..\:/Tym/app/src/main/res/layout/activity_service.xml" value="0.2667572463768116" />
+        <entry key="..\:/Tym/app/src/main/res/layout/activity_splash_screen.xml" value="0.2667572463768116" />
+        <entry key="..\:/Tym/app/src/main/res/layout/activity_zxc_el.xml" value="0.67" />
+        <entry key="..\:/Tym/app/src/main/res/layout/activity_zxc_form_el.xml" value="0.25" />
+        <entry key="..\:/Tym/app/src/main/res/layout/activity_zxc_form_him.xml" value="0.33" />
+        <entry key="..\:/Tym/app/src/main/res/layout/activity_zxc_form_rem.xml" value="0.2953703703703704" />
+        <entry key="..\:/Tym/app/src/main/res/layout/activity_zxc_form_san.xml" value="0.25" />
+        <entry key="..\:/Tym/app/src/main/res/layout/activity_zxc_forn_him.xml" value="0.3375" />
+        <entry key="..\:/Tym/app/src/main/res/layout/activity_zxc_him.xml" value="0.33" />
+        <entry key="..\:/Tym/app/src/main/res/layout/activity_zxc_rem.xml" value="0.25" />
+        <entry key="..\:/Tym/app/src/main/res/layout/activity_zxc_san.xml" value="0.33" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

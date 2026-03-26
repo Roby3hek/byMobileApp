@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.eqs">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.EQS">
+        <activity
+            android:name=".zxc_san"
+            android:exported="true" />
+        <activity
+            android:name=".zxc_rem"
+            android:exported="true" />
+        <activity
+            android:name=".zxc_him"
+            android:exported="true" />
+        <activity
+            android:name=".zxc_el"
+            android:exported="true" />
+        <activity
+            android:name=".service"
+            android:exported="true" />
+        <activity
+            android:name=".santehnik"
+            android:exported="true" />
+        <activity
+            android:name=".remont"
+            android:exported="true" />
+        <activity
+            android:name=".prjob"
+            android:exported="true" />
+        <activity
+            android:name=".pay"
+            android:exported="true" />
+        <activity
+            android:name=".info"
+            android:exported="true" />
+        <activity
+            android:name=".him_chistka"
+            android:exported="true" />
+        <activity
+            android:name=".electric"
+            android:exported="true" />
+        <activity
+            android:name=".catalog"
+            android:exported="true" />
+        <activity
+            android:name=".auto"
+            android:exported="true" />
+        <activity
+            android:name=".SplashScreen"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name=".MainActivity"
+            android:exported="true" />
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

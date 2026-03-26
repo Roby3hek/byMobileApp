@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">EQService</string>
+    <string name="Sales_icon">Sales</string>
+    <string name="Oplata">Оплата</string>
+    <string name="Dostavka">Принцип работы</string>
+    <string name="Glavnaya">Главная</string>
+    <string name="logo_of_app_1">Courses</string>
+    <string name="logo_of_app_2">App</string>
+    <string name="logo_name">EQService</string>
+    <string name="name">Название:</string>
+    <string name="Sales">Цена:</string>
+    <string name="Description">Описание:</string>
+
+    <string name="info">Информация о разработчике</string>
+    <string name="nameInfo">ФИО: Туманян Робэн Александрович</string>
+    <string name="yearInfo">Дата рождения: 19.07.2004г. (18 лет)</string>
+    <string name="educationInfo">Образование: Не оконченое среднее профессиональное образование (числится в по сей день в СКМиЭ при СГТУ им.Гагарина Ю.А.), обучается на 4 курсе на специальности Информационные Системы и Программирование (ИСП), в группе ИСП-41.</string>
+    <string name="CourseInfo">Работа была вполнена в формате (Курсовая работа). Принимает курсовую работу преподаватель Пояркова Т.А.</string>
+    <string name="setiInfo">Обратная связь:</string>
+
+    <string name="payInfo">В настоящее время оплата происходит наличными, мы работаем над внедрением оплаты онлайн и банковсикми картами. В скором времени оплата картой и стороннними кошельками будет доступна. Внутри приложения встроен калькулятор, который подсчитает сумму к оплате в зависимости введенных в него данных. Оформление заказа будет происходить на сайте нашего приложения, после успешного оформления заказа, на экран выведится сообщение.</string>
+    <string name="prJobInfo">Принцип работы очень прост, в приложение встроен калькулятор который автоматически считает стоимость оказываемой Вам услуги. После оплаты, в указанное время и место прибудет наш опытный персонал и приступит к работе.</string>
+
+    <string name="pochta">rt2004roben@mail.ru</string>
+
+    <string name="CalcForm">Цена расчитывается на форме заказа</string>
+
+    <string name="Special">Специальное предложение</string>
+    <string name="SpecialPred">При вызове сантехника и электрика предоставляется скидка в 25%</string>
+
+    <string name="nameTeh">Ремонт техники</string>
+    <string name="DescriptionTeh">Сервисный центр по ремонту техники находится по адресу ул.Крымская, д.19. Сервисный центр принимает технику как и малогаборитную (телефоны, наушники, планшеты, геймпады и т.д.), так и крупногабаритную (телевизоры, компьютеры, мониторы, игровые приставки и т.д.)</string>
+    <string name="SalesTeh">Цена зависит от объема работы</string>
+    <string name="Time">Часы работы:</string>
+    <string name="DescriptionTime">По будням c 12:00 до 22:00</string>
+    <string name="DescriptionTime2">По выходным с 12:00 до 21:00</string>
+    <string name="Add">Адрес:</string>
+    <string name="DescriptionAdd">Саратов, ул. Крымская д.19</string>
+
+    <string name="nameSanTeh">Сантехник</string>
+    <string name="DescriptionSanTeh">Сантехник - работник, которые занимается монтажом, эксплуатацией или ремонтом санитарно-технического оборудования. После заполнения формы в оформлении заказа в указанное время и место прибудет сантехник, за 10 минут до прихода Вам поступит звонок с напоминанием времени. Цена расчитывается автоматически.</string>
+
+    <string name="nameEl">Электрик</string>
+    <string name="DescriptionEl">Электрик - работник электрической промышленности. После заполнения формы в оформлении заказа в указанное время и место прибудет электрик, за 10 минут до прихода Вам поступит звонок с напоминанием времени. Цена расчитывается автоматически.</string>
+
+    <string name="nameHim">Хим. чистка, уборка</string>
+    <string name="DescriptionHim">Хим. чистка - сервис по уборке домов, квартир и иных помещений. После заполнения формы в оформлении заказа в указанное время и место прибудет команда по уборке квартир и домов, за 10 минут до прихода Вам поступит звонок с напоминанием времени. Цена расчитывается автоматически.</string>
+
+    <string name="nameAuto">Авто-сервис</string>
+    <string name="DescriptionAuto">НЕДОСТУПНО! Объект находится на этапе разработки.</string>
+
+    <string name="nameRem">Ремонт бытовых приборов</string>
+    <string name="DescriptionRem">В ремонт бытовых приборов входят следующие услуги: ремонт стиральных машин, посудомоечных машин, пылесосов, плиты и т.д. После заполнения формы в оформлении заказа и указании оказываемых услуг в указанное время и место прибудет бригада для дальнейшей работы с Вами. За 10 минут до приезда Вам поступит звонок с напоминанием.</string>
+
+    <string name="zxc">Выберите услугу</string>
+    <string name="zxcPay">Итого к оплате:</string>
+    <string name="zxcName">Фамилия и имя</string>
+    <string name="zxcAdd">Введите адрес</string>
+    <string name="zxcPhone">Номер телефона</string>
+    <string name="zxc_V">Введите площадь (кв.м)</string>
+
+    <string name="zxcRB1">Диагностика проводки</string>
+    <string name="zxcRB2">Замена/установка счетчика</string>
+    <string name="zxcRB3">Замена/установка проводки</string>
+    <string name="zxcRB1San">Установка оборудования</string>
+    <string name="zxcRB2San">Ремонт труб и устранение течки</string>
+    <string name="zxcRB3San">Замена сифонов и фильтров</string>
+    <string name="zxcRB1Him">Полная хим. чистка помещения</string>
+    <string name="zxcRB2Him">Двух-фазовая хим. чистка</string>
+    <string name="zxcRB3Him">Трех-фазовая хим. чистка</string>
+    <string name="zxcRB4Him">Хим чистка аппартаментов и больших домов</string>
+    <string name="zxcRB1Rem">Ремонт бытовых приборов</string>
+    <string name="zxcRB2Rem">Установка бытовых приборов</string>
+    <string name="zxcRB3Rem">Диагностика бытовых приборов</string>
+</resources>
